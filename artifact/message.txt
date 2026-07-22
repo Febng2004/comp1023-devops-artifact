@@ -1,1 +1,2 @@
-Welcome to the project
+COMP1023 DevOps Artifact
+"Milestone 1 update by Franck Emmanuel Ebongue"
