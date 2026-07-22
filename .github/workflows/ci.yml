@@ -12,5 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Confirm workflow runs
-        run: echo "CI is running on Windows"
+      - name: Run artifact check
+        run: .\scripts\check_artifact.cmd
+        shell: cmd
